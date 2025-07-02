@@ -7,8 +7,12 @@
   padding: 0;
   box-sizing: border-box;
 }
-body{
+body {
   background-color: #101010;
   color: #fff;
   font-family: "Montserrat";
+}
+.align_center {
+  display: flex;
+  align-items: center;
 }
